@@ -1,0 +1,12 @@
+Comparison 	:|	 SQL DataBase                 |   N0-SQL DataBase		            |
+------------------------------------------------------|---------------------------------------------|
+
+Data Model	:| 	Structured                    |  Unstructured or semi	                    |
+	
+Scalability	:|   Vertical Scaling	              |   Horizontal Scaling		            |
+
+Performance	:|   Complex Queires that can be slow | Fast read and wirte but no complex queires  |
+
+Schema		:|  fixed schema with rows and tables |  flexible  designs                          |
+
+Language 	:| SQL                                | JSON , XML , YAML                           |
